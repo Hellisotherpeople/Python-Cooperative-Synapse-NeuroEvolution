@@ -1,6 +1,17 @@
 # Python-Cooperative-Synapse-NeuroEvolution
 
+An Implementation of this paper: [Accelerated Neural Evolution through Cooperatively Coevolved Synapses  (https://pdfs.semanticscholar.org/966e/41903b4aff42601a188bd7b26d71ef120d11.pdf)
+
 "Look ma, no gradients!" 
+
+
+![](https://github.com/Hellisotherpeople/Python-Cooperative-Synapse-NeuroEvolution/blob/master/CoSyne1.png)
+
+
+![](https://github.com/Hellisotherpeople/Python-Cooperative-Synapse-NeuroEvolution/blob/master/CoSyne2.png)
+
+
+![](https://github.com/Hellisotherpeople/Python-Cooperative-Synapse-NeuroEvolution/blob/master/CoSyne3.png)
 
 ![](https://github.com/Hellisotherpeople/Python-Cooperative-Synapse-NeuroEvolution/blob/master/cooperative_neuroevolution.gif)
 
