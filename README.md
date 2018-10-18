@@ -1,6 +1,6 @@
 # Python-Cooperative-Synapse-NeuroEvolution
 
-An Implementation of this paper: [Accelerated Neural Evolution through Cooperatively Coevolved Synapses]  (https://pdfs.semanticscholar.org/966e/41903b4aff42601a188bd7b26d71ef120d11.pdf)
+An Implementation of this paper: [Accelerated Neural Evolution through Cooperatively Coevolved Synapses](https://pdfs.semanticscholar.org/966e/41903b4aff42601a188bd7b26d71ef120d11.pdf)
 
 "Hey look, a reproducable paper!" 
 
