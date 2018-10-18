@@ -2,7 +2,7 @@
 
 An Implementation of this paper: [Accelerated Neural Evolution through Cooperatively Coevolved Synapses  (https://pdfs.semanticscholar.org/966e/41903b4aff42601a188bd7b26d71ef120d11.pdf)
 
-"Look ma, no gradients!" 
+"Hey look, a reproducable paper!" 
 
 
 ![](https://github.com/Hellisotherpeople/Python-Cooperative-Synapse-NeuroEvolution/blob/master/CoSyne1.PNG)
@@ -12,6 +12,8 @@ An Implementation of this paper: [Accelerated Neural Evolution through Cooperati
 
 
 ![](https://github.com/Hellisotherpeople/Python-Cooperative-Synapse-NeuroEvolution/blob/master/CoSyne3.PNG)
+
+"Look ma, no gradients!" 
 
 ![](https://github.com/Hellisotherpeople/Python-Cooperative-Synapse-NeuroEvolution/blob/master/cooperative_neuroevolution.gif)
 
