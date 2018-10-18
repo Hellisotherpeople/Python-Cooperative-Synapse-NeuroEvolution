@@ -5,13 +5,13 @@ An Implementation of this paper: [Accelerated Neural Evolution through Cooperati
 "Look ma, no gradients!" 
 
 
-![](https://github.com/Hellisotherpeople/Python-Cooperative-Synapse-NeuroEvolution/blob/master/CoSyne1.png)
+![](https://github.com/Hellisotherpeople/Python-Cooperative-Synapse-NeuroEvolution/blob/master/CoSyne1.PNG)
 
 
-![](https://github.com/Hellisotherpeople/Python-Cooperative-Synapse-NeuroEvolution/blob/master/CoSyne2.png)
+![](https://github.com/Hellisotherpeople/Python-Cooperative-Synapse-NeuroEvolution/blob/master/CoSyne2.PNG)
 
 
-![](https://github.com/Hellisotherpeople/Python-Cooperative-Synapse-NeuroEvolution/blob/master/CoSyne3.png)
+![](https://github.com/Hellisotherpeople/Python-Cooperative-Synapse-NeuroEvolution/blob/master/CoSyne3.PNG)
 
 ![](https://github.com/Hellisotherpeople/Python-Cooperative-Synapse-NeuroEvolution/blob/master/cooperative_neuroevolution.gif)
 
