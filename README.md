@@ -1,7 +1,7 @@
 # Python-Cooperative-Synapse-NeuroEvolution
 
 
-![]( Python-Cooperative-Synapse-NeuroEvolution/ezgif-3-8f8757e62212.gif )
+![](https://github.com/Hellisotherpeople/Python-Cooperative-Synapse-NeuroEvolution/blob/master/ezgif-3-8f8757e62212.gif)
 
 
 
