@@ -1,7 +1,7 @@
 # Python-Cooperative-Synapse-NeuroEvolution
 
 
-![](https://github.com/Hellisotherpeople/Python-Cooperative-Synapse-NeuroEvolution/blob/master/learning_2_walk.gif)
+![]( Python-Cooperative-Synapse-NeuroEvolution/ezgif-3-8f8757e62212.gif )
 
 
 
