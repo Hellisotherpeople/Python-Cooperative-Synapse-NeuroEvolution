@@ -6,7 +6,7 @@ The game doesn't render until at least one generation of the network has solved 
 
 These results are *stunning*
 
-![](https://github.com/Hellisotherpeople/Python-Cooperative-Synapse-NeuroEvolution/blob/master/reinforcement_learning.gif)
+![](https://github.com/Hellisotherpeople/Python-Cooperative-Synapse-NeuroEvolution/blob/master/learning_2_walk.gif)
 
 
 
