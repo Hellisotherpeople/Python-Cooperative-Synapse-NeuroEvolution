@@ -1,11 +1,6 @@
 # Python-Cooperative-Synapse-NeuroEvolution
 
 
-Approx ~2 seconds of CPU time to solve a non-trivial reinforcement learning benchmark (solved the first time the "fitness" number goes over 90) 
-The game doesn't render until at least one generation of the network has solved the problem. I didn't get around to writing the logic to tell it to only show the solved runs, but nearly every generation after the first "solved" generation eventually solves the problem - as seen in the gif. I'm using OpenAIGym for the reinforcement learning problem. 
-
-These results are *stunning*
-
 ![](https://github.com/Hellisotherpeople/Python-Cooperative-Synapse-NeuroEvolution/blob/master/learning_2_walk.gif)
 
 
